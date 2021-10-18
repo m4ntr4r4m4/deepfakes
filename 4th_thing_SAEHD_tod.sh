@@ -1,0 +1,1 @@
+python main.py train --training-data-src-dir /Users/mac/Desktop/DEEPFAKES/export/src/aligned --training-data-dst-dir /Users/mac/Desktop/DEEPFAKES/export/dest/aligned --model-dir /Users/mac/Desktop/DEEPFAKES/model --model SAEHD

@@ -1,0 +1,1 @@
+python main.py merge --input-dir /Users/mac/Desktop/DEEPFAKES/export/dest --output-dir /Users/mac/Desktop/DEEPFAKES/export/dest/merged --aligned-dir /Users/mac/Desktop/DEEPFAKES/export/dest/aligned --model-dir /Users/mac/Desktop/DEEPFAKES/model --model SAEHD --output-mask-dir /Users/mac/Desktop/DEEPFAKES/mask 
