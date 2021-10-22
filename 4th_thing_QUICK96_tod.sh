@@ -1,1 +1,1 @@
-python main.py train --training-data-src-dir /Users/mac/Desktop/DEEPFAKES/export/src/aligned --training-data-dst-dir /Users/mac/Desktop/DEEPFAKES/export/dest/aligned --model-dir /Users/mac/Desktop/DEEPFAKES/model --model Quick96
+python main.py train --training-data-src-dir /home/newos/DEEPFAKES/export/src/aligned --training-data-dst-dir /home/newos/DEEPFAKES/export/dest/aligned --model-dir /home/newos/DEEPFAKES/model --model Quick96
