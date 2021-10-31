@@ -1,0 +1,1 @@
+python main.py videoed video-from-sequence  --input-dir /home/newos/DEEPFAKES/export/dest/merged/  --output-file ousamma-result50.mp4  --reference-file /home/newos/DEEPFAKES/source/data_dest.mp4 --lossless
